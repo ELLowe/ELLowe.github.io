@@ -1,0 +1,59 @@
+/* Theme Decorations: */
+.thmgrad{
+    background: linear-gradient(to right,rgb(179, 176, 176), #17a3b8);
+}
+.thmgradrv{
+    background: linear-gradient(to left,rgb(179, 176, 176), #17a3b8);
+}
+.thmgradlt{
+    
+    background: linear-gradient(to right,rgb(212, 209, 209), #bceef6);
+}
+.thmgradltrv{
+    
+    background: linear-gradient(to left,rgb(212, 209, 209), #bceef6);
+}
+.thmgradxlt{
+    background: linear-gradient(to right,rgb(221, 218, 218), #e9f9fc);
+}
+
+.image-center{
+    text-align: center;
+}
+.box{
+  color:white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size:40px;
+  text-shadow:0px 0px 5px #000;
+  text-align:center;
+}
+.visibility{
+  opacity:0.90 !important;
+}
+.visibilityeighty{
+  opacity:0.80;
+}
+.visibilityall{
+    opacity:0.20 !important;
+}
+.shadows{
+    text-emphasis: e;
+}
+.mb-5 {
+    margin-bottom: 5 !important;
+  }
+.image-center {
+    text-align: center;
+}
+  
+.comparisons-image {
+    max-width: 500px;
+    opacity:100% !important;
+}
+
+.background_special{
+    max-height: 100% !important;
+}
+.drop_special{
+    left:-65px;
+}
