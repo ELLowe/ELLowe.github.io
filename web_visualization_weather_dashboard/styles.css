@@ -57,3 +57,12 @@
 .drop_special{
     left:-65px;
 }
+html{
+    background-image: url('world_map_of_cities.JPG');
+    background-repeat: no-repeat;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-position: center center fixed;
+}
